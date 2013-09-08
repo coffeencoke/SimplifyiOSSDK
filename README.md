@@ -80,3 +80,8 @@ user cancels entry, the delegate's `tokenGenerationCancelled` is invoked.
 To access the actual token value, for use in the server side API, refer to the `token` member of the
 returned `SIMCreditCardToken` object.
 
+# License
+
+Copyright 2013 {{Put Organization Here}}
+
+MIT License - view LICENSE.txt in the source for details
